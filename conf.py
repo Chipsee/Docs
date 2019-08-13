@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Chipsee Documents Center'
-copyright = '2019, XiaoQiang Liu'
+copyright = '2019, Chipsee'
 author = 'XiaoQiang Liu'
 
 # The version info for the project you're documenting, acts as replacement for
