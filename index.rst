@@ -1,22 +1,23 @@
-.. Chipsee Documents Center documentation master file, created by
-   sphinx-quickstart on Thu Jun 13 07:33:54 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Chipsee Documents Center
 ===================================
 
-Contents:
-
 .. toctree::
+   :caption: Hardware Documents
    :maxdepth: 2
 
-   example
+   hardware/products
 
-Indices and tables
-==================
+.. toctree::
+   :caption: Software Documents
+   :maxdepth: 2
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   software/imx6ul
+   software/am335x
+   software/imx6qdl
+   software/rk3399
 
+.. toctree::
+   :caption: Misc Documents
+   :maxdepth: 2
+
+   misc/howto
