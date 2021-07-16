@@ -84,5 +84,5 @@ to control volume, brightness, power, act led, buzzer.
     
 
 .. |image1| image:: media/CS19108RA156/image1.jpg
-   :width: 12.0in
-   :height: 8.0in
+   :width: 700px
+   :height: 460px
