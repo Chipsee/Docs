@@ -3,15 +3,22 @@ Welcome to Chipsee Documents Center
 
 .. toctree::
    :caption: Hardware Documents
-   :maxdepth: 2
+   :maxdepth: 3 
+   :titlesonly:
+
+   hardware/index
 
 .. toctree::
    :caption: Software Documents
-   :maxdepth: 2
+   :maxdepth: 3 
+   :titlesonly:
+
+   software/index
 
 .. toctree::
    :caption: Misc Documents
-   :maxdepth: 2
+   :maxdepth: 3 
+   :titlesonly:
 
-   misc/howto
-   misc/imgbuild
+   misc/index
+
