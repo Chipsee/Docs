@@ -4,11 +4,28 @@ Setting up your CS19108RA4156
 What you will need
 ------------------
 
+* SD Card
+
+  - We recommend a minimum of 16GB micro SD card, and using `Raspberry Pi Imager`_ to install an `operating system`_ onto it.
+
+
+* Power supply
+
+  - We recommend 12V 2A.
+
+.. Warning::
+   This device only support 12V Power Supply.
+
 Set up your SD card
 -------------------
+You can reference `Installing operating system images`_ to know how to set up you SD card.
 
 Start up your CS19108RA4156
 ---------------------------
+
+1. Insert the SD card to SD Slot of CS19108RA4156.
+
+2. Power On.
 
 Install CMhelper
 ----------------
@@ -86,3 +103,9 @@ to control volume, brightness, power, act led, buzzer.
 .. |image1| image:: media/CS19108RA156/image1.jpg
    :width: 700px
    :height: 460px
+
+
+.. links
+.. _Raspberry Pi Imager: https://www.raspberrypi.org/software/
+.. _operating system: https://www.raspberrypi.org/software/operating-systems/
+.. _Installing operating system images: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
