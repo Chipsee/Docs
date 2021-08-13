@@ -1,0 +1,78 @@
+CS10600F070
+===========
+
+Android4.4
+----------
+
+ * GT911 Touchscreen
+
+  `prebuilt-imx6qv1-cs10600f070v3-android4-emmc-gt911-20200402.tar.gz`_
+
+Android6.0
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-android6-emmc-20200305.tar.gz`_
+
+ * GT911 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-android6-gt911-emmc-20200305.tar.gz`_
+
+Android8.0
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-android8-ft-emmc-20191219.tar.gz`_
+
+ * GT911 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-android8-emmc-20210709.tar.gz`_
+
+
+LinuxQt5.5
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-linux-emmc-20200320.tar.gz`_
+
+ * GT911 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-linux-gt911-emmc-20200320.tar.gz`_
+
+Ubuntu14.04
+-----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-u1404-emmc-20200306.tar.gz`_
+
+ * GT911 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-u1404-gt911-emmc-20200306.tar.gz`_
+
+
+Ubuntu18.04
+-----------
+
+ * GT911 Touchscreen
+
+  `prebuilt-imxv1-cs10600f070v3-u1804-emmc-20200710.tar.gz`_
+
+
+
+
+
+.. links
+.. _prebuilt-imx6qv1-cs10600f070v3-android4-emmc-gt911-20200402.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Android4.4/prebuilt-imx6qv1-cs10600f070v3-android4-emmc-gt911-20200402.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-android6-emmc-20200305.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Android6.0/prebuilt-imxv1-cs10600f070v3-android6-emmc-20200305.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-android6-gt911-emmc-20200305.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Android6.0/prebuilt-imxv1-cs10600f070v3-android6-gt911-emmc-20200305.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-android8-ft-emmc-20191219.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Android8.0/prebuilt-imxv1-cs10600f070v3-android8-ft-emmc-20191219.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-android8-emmc-20210709.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Android8.0/prebuilt-imxv1-cs10600f070v3-android8-emmc-20210709.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-linux-emmc-20200320.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/LinuxQt5.5/prebuilt-imxv1-cs10600f070v3-linux-emmc-20200320.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-linux-gt911-emmc-20200320.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/LinuxQt5.5/prebuilt-imxv1-cs10600f070v3-linux-gt911-emmc-20200320.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-u1404-emmc-20200306.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1404/prebuilt-imxv1-cs10600f070v3-u1404-emmc-20200306.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-u1404-gt911-emmc-20200306.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1404/prebuilt-imxv1-cs10600f070v3-u1404-gt911-emmc-20200306.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-u1804-emmc-20200710.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1804/prebuilt-imxv1-cs10600f070v3-u1804-emmc-20200710.tar.gz

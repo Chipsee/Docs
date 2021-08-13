@@ -1,0 +1,23 @@
+CS12800R101
+===========
+
+
+Android7.1
+----------
+
+`prebuilt-rk3399v1-cs12800r-lvds-android7-ota-emmc-20200916.img`_
+
+
+LinuxQt5.12
+-----------
+
+`prebuilt-rk3399v1-cs12800r-lvds-linux-emmc-20210309.img`_
+
+
+
+
+
+
+.. links
+.. _prebuilt-rk3399v1-cs12800r-lvds-android7-ota-emmc-20200916.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/10/Android7.1/prebuilt-rk3399v1-cs12800r-lvds-android7-ota-emmc-20200916.img
+.. _prebuilt-rk3399v1-cs12800r-lvds-linux-emmc-20210309.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/10/LinuxQt5.12/prebuilt-rk3399v1-cs12800r-lvds-linux-emmc-20210309.img

@@ -1,0 +1,57 @@
+CS10768T097
+===========
+
+Android4.1
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-som-v3-cs10768t097-v3-android-emmc-20210709.tar.gz`_
+
+LinuxQt4.8
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-som-v3-cs10768t097-v3-ezsdk-emmc-20170116.tar.gz`_
+
+LinuxQt5.5
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-som-v3-cs10768t097-v3-tisdk-emmc-20190915.tar.gz`_
+
+Debian7.4
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-som-v3-cs10768t097-v3-debian7-emmc-20200416.tar.gz`_
+
+Debian8.4
+----------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-som-v3-cs10768t097-v3-debian-20200903.tar.gz`_
+
+Angstrom2012
+------------
+
+ * FT5X06 Touchscreen
+
+  `prebuilt-som-v3-cs10768t097-v3-angstrom-emmc-20151228.tar.gz`_
+
+
+
+
+
+
+.. links
+.. _prebuilt-som-v3-cs10768t097-v3-android-emmc-20210709.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/9.7/Android4.1/prebuilt-som-v3-cs10768t097-v3-android-emmc-20210709.tar.gz
+.. _prebuilt-som-v3-cs10768t097-v3-ezsdk-emmc-20170116.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/9.7/LinuxQt4.8/prebuilt-som-v3-cs10768t097-v3-ezsdk-emmc-20170116.tar.gz
+.. _prebuilt-som-v3-cs10768t097-v3-tisdk-emmc-20190915.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/9.7/LinuxQt5.5/prebuilt-som-v3-cs10768t097-v3-tisdk-emmc-20190915.tar.gz
+.. _prebuilt-som-v3-cs10768t097-v3-debian7-emmc-20200416.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/9.7/Debian7.4/prebuilt-som-v3-cs10768t097-v3-debian7-emmc-20200416.tar.gz
+.. _prebuilt-som-v3-cs10768t097-v3-debian-20200903.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/9.7/Debian8.4/prebuilt-som-v3-cs10768t097-v3-debian-20200903.tar.gz
+.. _prebuilt-som-v3-cs10768t097-v3-angstrom-emmc-20151228.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/9.7/Angstrom2012/prebuilt-som-v3-cs10768t097-v3-angstrom-emmc-20151228.tar.gz

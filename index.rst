@@ -16,6 +16,13 @@ Welcome to Chipsee Documents Center
    software/index
 
 .. toctree::
+   :caption: Download Center
+   :maxdepth: 3 
+   :titlesonly:
+
+   download/index
+
+.. toctree::
    :caption: Misc Documents
    :maxdepth: 3 
    :titlesonly:

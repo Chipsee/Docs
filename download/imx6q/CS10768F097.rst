@@ -1,0 +1,48 @@
+CS10768F097
+===========
+
+Android4.4
+----------
+
+ * GT9271 Touchscreen
+
+  `prebuilt-imx6qv1-cs12800f010v3-android4-emmc-20190410.tar.gz`_
+
+Android6.0
+----------
+
+ * GT9271 Touchscreen
+
+  `prebuilt-imx6qv1-cs10768f097v3-android6-emmc-20200305.tar.gz`_
+
+Android8.0
+----------
+
+ * GT9271 Touchscreen
+
+  `prebuilt-imxv1-cs10768f097v1-android8-emmc-20190425.tar.gz`_
+
+
+LinuxQt5.5
+----------
+
+ * GT9271 Touchscreen
+
+  `prebuilt-imx6qv1-cs10768f097v1-linux-emmc-20200320.tar.gz`_
+
+Ubuntu14.04
+-----------
+
+ * GT911 Touchscreen
+
+  `prebuilt-imx6qv1-cs10768f097v1-u1404-emmc-20190807.tar.gz`_
+
+
+
+
+.. links
+.. _prebuilt-imx6qv1-cs12800f010v3-android4-emmc-20190410.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/9.7/Android4.4/prebuilt-imx6qv1-cs12800f010v3-android4-emmc-20190410.tar.gz
+.. _prebuilt-imx6qv1-cs10768f097v3-android6-emmc-20200305.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/9.7/Android6.0/prebuilt-imx6qv1-cs10768f097v3-android6-emmc-20200305.tar.gz
+.. _prebuilt-imxv1-cs10768f097v1-android8-emmc-20190425.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/9.7/Android8.0/prebuilt-imxv1-cs10768f097v1-android8-emmc-20190425.tar.gz
+.. _prebuilt-imx6qv1-cs10768f097v1-linux-emmc-20200320.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/9.7/LinuxQt5/prebuilt-imx6qv1-cs10768f097v1-linux-emmc-20200320.tar.gz
+.. _prebuilt-imx6qv1-cs10768f097v1-u1404-emmc-20190807.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/9.7/Ubuntu14.04/prebuilt-imx6qv1-cs10768f097v1-u1404-emmc-20190807.tar.gz

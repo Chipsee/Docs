@@ -1,0 +1,16 @@
+CS10600U070
+===========
+
+LinuxQt5.5
+----------
+`prebuilt-cs10600u070v1-emmc-20210719.tar.gz`_
+
+Debian8.10
+----------
+`prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz`_
+
+
+
+.. links
+.. _prebuilt-cs10600u070v1-emmc-20210719.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6UL/7/LinuxQt5.5/prebuilt-cs10600u070v1-emmc-20210719.tar.gz
+.. _prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6UL/7/Debian8.10/prebuilt-cs10600u070v1-debian-emmc-20210201.tar.gz
