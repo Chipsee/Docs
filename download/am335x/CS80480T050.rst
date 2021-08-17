@@ -33,6 +33,7 @@ LinuxQt5.5
  * GT911 Touchscreen
 
   `prebuilt-som-v3-cs80480t050-v1-tisdk-gt911-emmc-20210517.tar.gz`_
+  `prebuilt-som-v3-cs80480t050-v1-tisdk-gt911-emmc-20210817.tar.gz`_
 
 Debian7.4
 ----------
@@ -82,6 +83,7 @@ Angstrom2012
 .. _prebuilt-som-v3-cs80480t050-v3-ezsdk-emmc-gt911-20190926.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/LinuxQt4.8/prebuilt-som-v3-cs80480t050-v3-ezsdk-emmc-gt911-20190926.tar.gz
 .. _prebuilt-som-v3-cs80480t050-v1-tisdk-emmc-20170511.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/LinuxQt5.5/prebuilt-som-v3-cs80480t050-v1-tisdk-emmc-20170511.tar.gz
 .. _prebuilt-som-v3-cs80480t050-v1-tisdk-gt911-emmc-20210517.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/LinuxQt5.5/prebuilt-som-v3-cs80480t050-v1-tisdk-gt911-emmc-20210517.tar.gz
+.. _prebuilt-som-v3-cs80480t050-v1-tisdk-gt911-emmc-20210817.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/LinuxQt5.5/prebuilt-som-v3-cs80480t050-v1-tisdk-gt911-emmc-20210817.tar.gz
 .. _prebuilt-som-v3-cs80480t50-v3-debian-emmc-20191231.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/Debian7.4/prebuilt-som-v3-cs80480t50-v3-debian-emmc-20191231.tar.gz
 .. _prebuilt-som-v3-cs80480t50-v3-debian-gt911-emmc-20190810.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/Debian7.4/prebuilt-som-v3-cs80480t50-v3-debian-gt911-emmc-20190810.tar.gz
 .. _prebuilt-som-v3-cs80480t050-v5-debian-emmc-20190115.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/AM3354/eMMC/5/Debian8.4/prebuilt-som-v3-cs80480t050-v5-debian-emmc-20190115.tar.gz

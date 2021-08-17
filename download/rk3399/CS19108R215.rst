@@ -8,6 +8,17 @@ Android7.1
 `prebuilt-rk3399v1-cs19108r-lvds-android7-ota-emmc-20200110.img`_
 
 
+LinuxQt5.12
+-----------
+
+`prebuilt-rk3399v1-cs19108r-lvds-linux-emmc-20210817.img`_
+
+
+Debian9
+-------
+
+`prebuilt-rk3399v1-cs19108r-lvds-debian9-emmc-20210817.img`_
+
 
 
 
@@ -15,3 +26,5 @@ Android7.1
 
 .. links
 .. _prebuilt-rk3399v1-cs19108r-lvds-android7-ota-emmc-20200110.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/21.5/Android7.1/prebuilt-rk3399v1-cs19108r-lvds-android7-ota-emmc-20200110.img
+.. _prebuilt-rk3399v1-cs19108r-lvds-linux-emmc-20210817.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/21.5/LinuxQt5.12/prebuilt-rk3399v1-cs19108r-lvds-linux-emmc-20210817.img
+.. _prebuilt-rk3399v1-cs19108r-lvds-debian9-emmc-20210817.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/21.5/Debian9/prebuilt-rk3399v1-cs19108r-lvds-debian9-emmc-20210817.img
