@@ -61,6 +61,9 @@ Ubuntu18.04
 
   `prebuilt-imxv1-cs10600f070v3-u1804-emmc-20200710.tar.gz`_
 
+ * console version
+
+  `prebuilt-imxv1-cs10600f070v3-u1804-console-emmc-20210827.tar.gz`_
 
 
 
@@ -76,3 +79,4 @@ Ubuntu18.04
 .. _prebuilt-imxv1-cs10600f070v3-u1404-emmc-20200306.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1404/prebuilt-imxv1-cs10600f070v3-u1404-emmc-20200306.tar.gz
 .. _prebuilt-imxv1-cs10600f070v3-u1404-gt911-emmc-20200306.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1404/prebuilt-imxv1-cs10600f070v3-u1404-gt911-emmc-20200306.tar.gz
 .. _prebuilt-imxv1-cs10600f070v3-u1804-emmc-20200710.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1804/prebuilt-imxv1-cs10600f070v3-u1804-emmc-20200710.tar.gz
+.. _prebuilt-imxv1-cs10600f070v3-u1804-console-emmc-20210827.tar.gz: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/IMX6Q/7/Ubuntu1804/prebuilt-imxv1-cs10600f070v3-u1804-console-emmc-20210827.tar.gz
