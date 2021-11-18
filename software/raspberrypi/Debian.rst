@@ -623,7 +623,7 @@ Open one terminal to catch date::
 
 Open another terminal to config and enable::
 
-   $ microcom –s 9600 /dev/ttyUSB2
+   $ busybox microcom –s 9600 /dev/ttyUSB2
    AT+QGPSCFG=”gpsnmeatype”,1
    AT+QGPS=1 // enable GPS, wait some minutes, you can get date from fist terminal.
    AT+QGPSEND // disable GPS
