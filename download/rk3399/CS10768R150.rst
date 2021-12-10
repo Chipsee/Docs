@@ -5,7 +5,7 @@ CS10768R150
 Android7.1
 ----------
 
-`prebuilt-rk3399v1-cs10768r-lvds-android7-ota-emmc-20210427.img`_
+`prebuilt-rk3399v1-cs10768r-lvds-android7-ota-emmc-20211130.img`_
 
 
 Debian9
@@ -22,3 +22,4 @@ Debian9
 .. links
 .. _prebuilt-rk3399v1-cs10768r-lvds-android7-ota-emmc-20210427.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/15/Android7.1/prebuilt-rk3399v1-cs10768r-lvds-android7-ota-emmc-20210427.img
 .. _prebuilt-rk3399v1-cs10768r-lvds-debian9-emmc-20210507.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/15/Debian9/prebuilt-rk3399v1-cs10768r-lvds-debian9-emmc-20210507.img
+.. _prebuilt-rk3399v1-cs10768r-lvds-android7-ota-emmc-20211130.img: https://chipsee-tmp.s3.amazonaws.com/mksdcardfiles/RK3399/15/Android7.1/prebuilt-rk3399v1-cs10768r-lvds-android7-ota-emmc-20211130.img
