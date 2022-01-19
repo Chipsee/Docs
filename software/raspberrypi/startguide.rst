@@ -52,6 +52,12 @@ Install CMhelper
 
    $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 06D92B49B9078A87
 
+   If the above commands is not useable and get warning "apt-key is deprecated. Manage keyring files in trusted.gpg.d instead"
+   run follow commands instead.
+
+   $ sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/cmhelper.gpg --keyserver keyserver.ubuntu.com --recv 06D92B49B9078A87
+   $ sudo chmod 644 /etc/apt/trusted.gpg.d/cmhelper.gpg
+
 
 .. Warning::
    The key 06D92B49B9078A87 may be diffrent with your error message, you should check your error,
@@ -108,4 +114,4 @@ to control volume, brightness, power, act led, buzzer.
 .. links
 .. _Raspberry Pi Imager: https://www.raspberrypi.org/software/
 .. _operating system: https://www.raspberrypi.org/software/operating-systems/
-.. _Installing operating system images: https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+.. _Installing operating system images: https://www.raspberrypi.com/documentation/computers/getting-started.html#installing-the-operating-system
