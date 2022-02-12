@@ -1,31 +1,12 @@
 Welcome to Chipsee Documents Center
 ===================================
 
-.. toctree::
-   :caption: Hardware Documents
-   :maxdepth: 3 
-   :titlesonly:
 
-   hardware/index
+.. warning::
 
-.. toctree::
-   :caption: Software Documents
-   :maxdepth: 3 
-   :titlesonly:
+  This website had been moved to `docs.chipsee.com`_
 
-   software/index
 
-.. toctree::
-   :caption: Download Center
-   :maxdepth: 3 
-   :titlesonly:
+.. links
 
-   download/index
-
-.. toctree::
-   :caption: Misc Documents
-   :maxdepth: 3 
-   :titlesonly:
-
-   misc/index
-
+.. _docs.chipsee.com: https://docs.chipsee.com
